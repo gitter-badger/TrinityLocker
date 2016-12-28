@@ -1,4 +1,6 @@
 #Trinity Locker
+
+[![Join the chat at https://gitter.im/NovaViper-TrinityLocker/Lobby](https://badges.gitter.im/NovaViper-TrinityLocker/Lobby.svg)](https://gitter.im/NovaViper-TrinityLocker/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 An upcoming lock-screen app that allows for various customizations, utilizes the modern Material design, and is light on resources.
 
 ##Key Features
